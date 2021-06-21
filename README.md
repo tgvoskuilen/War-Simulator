@@ -8,7 +8,7 @@ After a seemingly un-ending game of the card game War with my daughter, we asked
 Some [smart folks](https://arxiv.org/abs/1007.1371) already answered that - it is finite. But I like to code
 so I thought I'd try to get some stats about an average game of War with a simple Python simulator.
 
-# Rules
+## Game Rules
 
 The rules of the game are simple enough it can be fully automated.
 
