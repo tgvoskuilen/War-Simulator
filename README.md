@@ -1,1 +1,28 @@
-# War-Simulator
+# War (Card Game) Simulator
+
+After a seemingly un-ending game of the card game War with my daughter, we asked the important questions:
+
+* Can a game of War theoretically go on forever?
+* How long is the average game of War?
+
+Some [smart folks](https://arxiv.org/abs/1007.1371) already answered that - it is finite. But I like to code
+so I thought I'd try to get some stats about an average game of War with a simple Python simulator.
+
+# Rules
+
+The rules of the game are simple enough it can be fully automated.
+
+ * [Bicycle Cards Rules](https://bicyclecards.com/how-to-play/war/)
+ * [Wikipedia Rules](https://en.wikipedia.org/wiki/War_(card_game))
+ 
+# Summary
+
+| Stat  | Value |
+|-------|-------|
+| Average length |  440-445 rounds |
+| Median length  |  330-335 rounds |
+| Longest game   | ~5000 rounds    |
+| Shortest game  | 18 rounds       |
+| 95% game length | 1160 rounds   |
+| 99% game length | 1750 rounds   |
+| 99.9% game length | 2600 rounds |
