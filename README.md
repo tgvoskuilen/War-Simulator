@@ -17,11 +17,12 @@ The rules of the game are simple enough it can be fully automated.
  
 # Summary
 
-After running about a million rounds of War in the simulator - the stats
+After running about a million rounds of War in the simulator the stats
 were pretty well converged to the values in the table below. The shortest
-and longest games there are not theoretical values - just observations. 
+and longest games there are not theoretical values - just observations from
+the samples I did run.
 
-It is possible to win in 1 round if it is an epic series of ties, and it is
+It is theoretically possible to win in 2 rounds if there is an epic series of ties, and it is
 possible for a game to go on for much longer than 5000 rounds if you are very unlucky.
 
 | Stat  | Value |
